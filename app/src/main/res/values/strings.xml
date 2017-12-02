@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">SociAllMediAA</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">dFDwnUTTQuksTV1iM0rfdM2Dl</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">	Na7l4XM0X8hFp2zylkVcr0ZKA06ZBvggxGFNnKWXOfy8EHe2nZ</string>
+    <string name="facebook_app_id">319495018530259</string>
+    <string name="fb_login_protocol_scheme">fb319495018530259</string>
+    <string name="back">back</string>
+</resources>
